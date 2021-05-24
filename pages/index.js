@@ -3,6 +3,7 @@ import Layout, { siteTitle } from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import Date from "../components/date";
+import Image from "next/image";
 
 import { getSortedPostsData } from "../lib/posts";
 
@@ -23,24 +24,33 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hola! Soy <b>Marcos</b>, y este es mi sitio web personal (que aún se
-          encuentra en construcción).
+          Hola! Soy <b>Marcos</b>, desarrollador web y contador público, y este
+          es mi sitio web personal (que aún se encuentra en construcción).
         </p>
         <p>
-          Si querés contactarme, podés hacerlo a través de los siguientes
-          medios:
-          <ul>
-            <li>
-              <a href="https://www.linkedin.com/in/marcos-dv/" target="_blank">
-                LinkedIn
-              </a>
-            </li>
-            <li>
-              <a href="https://twitter.com/marcosdv" target="_blank">
-                Twitter
-              </a>
-            </li>
-          </ul>
+          <u>Si querés contactarme, podés hacerlo acá:</u>
+          <p>
+            <a href="https://www.linkedin.com/in/marcos-dv/" target="_blank">
+              <Image
+                src="/images/posts/icons/linkedin.png"
+                alt="Linkedin"
+                width={16}
+                height={16}
+              />{" "}
+              LinkedIn
+            </a>
+          </p>
+          <p>
+            <a href="https://twitter.com/marcosdv" target="_blank">
+              <Image
+                src="/images/posts/icons/twitter.png"
+                alt="Twitter"
+                width={16}
+                height={16}
+              />{" "}
+              Twitter
+            </a>
+          </p>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
