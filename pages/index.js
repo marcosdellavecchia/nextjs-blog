@@ -24,8 +24,9 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hola! Soy <b>Marcos</b>, desarrollador web y contador público, y este
-          es mi sitio web personal (que aún se encuentra en construcción).
+          Hola! Soy <b>Marcos</b>, desarrollador de software y contador público.
+          Acá comparto cosas que me resultan interesantes y podrían servirle a
+          otras personas.
         </p>
         <p>
           <u>Si querés contactarme, podés hacerlo acá:</u>
