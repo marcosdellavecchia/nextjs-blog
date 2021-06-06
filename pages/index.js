@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hola! Soy Marcos, desarrollador de software{" "}
+          ¡Hola! Soy Marcos, desarrollador de software{" "}
           <i>(y ex contador público)</i>. Este es mi rincón en internet donde
           comparto cosas que me resultan interesantes y podrían servirle a otras
           personas.

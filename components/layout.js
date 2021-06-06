@@ -4,8 +4,8 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "marcosdv.";
-export const siteTitle = "marcosdv.com | Software development & Lifestyle";
+const name = "Marcos Della Vecchia";
+export const siteTitle = "marcosdv.com | Marcos Della Vecchia";
 
 export default function Layout({ children, home }) {
   return (
@@ -13,7 +13,7 @@ export default function Layout({ children, home }) {
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta
-          name="marcosdv"
+          name="marcosdv.com"
           content="Blog personal acerca de desarrollo de software y estilo de vida"
         />
         <meta
