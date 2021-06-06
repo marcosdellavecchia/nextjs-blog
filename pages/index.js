@@ -24,16 +24,17 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hola! Soy <b>Marcos</b>, desarrollador de software y contador público.
-          Acá comparto cosas que me resultan interesantes y podrían servirle a
-          otras personas.
+          Hola! Soy Marcos, desarrollador de software{" "}
+          <i>(y ex contador público)</i>. Este es mi rincón en internet donde
+          comparto cosas que me resultan interesantes y podrían servirle a otras
+          personas.
         </p>
         <p>
-          <u>Si querés contactarme, podés hacerlo acá:</u>
+          <u>También estoy en estas redes sociales:</u>
           <p>
             <a href="https://www.linkedin.com/in/marcos-dv/" target="_blank">
               <Image
-                src="/images/posts/icons/linkedin.png"
+                src="/images/icons/linkedin.png"
                 alt="Linkedin"
                 width={16}
                 height={16}
@@ -42,14 +43,36 @@ export default function Home({ allPostsData }) {
             </a>
           </p>
           <p>
+            <a href="https://github.com/marcosdellavecchia" target="_blank">
+              <Image
+                src="/images/icons/github.png"
+                alt="GitHub"
+                width={16}
+                height={16}
+              />{" "}
+              GitHub
+            </a>
+          </p>
+          <p>
             <a href="https://twitter.com/marcosdv" target="_blank">
               <Image
-                src="/images/posts/icons/twitter.png"
+                src="/images/icons/twitter.png"
                 alt="Twitter"
                 width={16}
                 height={16}
               />{" "}
               Twitter
+            </a>
+          </p>
+          <p>
+            <a href="https://instagram.com/marcos_dv" target="_blank">
+              <Image
+                src="/images/icons/instagram.png"
+                alt="Instagram"
+                width={16}
+                height={16}
+              />{" "}
+              Instagram
             </a>
           </p>
         </p>
