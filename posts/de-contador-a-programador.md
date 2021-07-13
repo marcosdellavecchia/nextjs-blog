@@ -52,18 +52,25 @@ Por ejemplo, un proyecto de un desarrollador Frontend suele incluir como mínimo
 
 ## Currículum y LinkedIn
 
-### CV
-Nos podemos encontrar con maneras muy diversas de encarar un currículum, y ningún modelo es el correcto. No sólo es importante el template que utilicemos para armar nuestro CV, si no también la información que se prioriza a la hora de completarlo: 
+### Armando un CV de programador
+A simple vista existen muchas variantes de currículums para perfiles enfocados en tecnología / sistemas, y ningún modelo es el correcto. Si bien el template que utilicemos para armar nuestro CV es algo importante, más lo es la información que tenemos que priroizar a la hora de completarlo.
+
+Recomiendo a priori enfocarse en incluir información referida a:
 - Trabajos previos relacionados al rubro.
-- Si no tenemos experiencia previa (como fue mi caso) agregar proyectos propios comentando las tecnologías utilizadas.
+- Si no tenemos experiencia laboral previa (como fue mi caso) sumar en su lugar proyectos propios explicando las tecnologías utilizadas.
 - Cursos y otra educación formal relacionada.
+
+Por otro lado, a mi me sirvió evitar:
+- Descripciones extensas de experiencias previas, en su lugar sintetizar la información y/o organizarla en bullets.
+- Información personal que no aporta al perfil (ej. hobbies, preferencias, etc).
+- Experiencia laboral o estudios que no aportan nada a la posición que se busca cubrir.
 
 A continuación voy a dejar un link a el modelo de CV que yo elegí y que al día de hoy sigo utilizando: [DevResume Sketch by Xiao Riley](https://themes.3rdwavemedia.com/resources/sketch-template/devresume-sketch-sketch-resume-template-for-software-developers/).
 
 ### LinkedIn
-LinkedIn es un gran lugar para extendernos más allá de lo que el CV nos lo permite, y **es el lugar en donde más expuestos vamos a estar frente a empresas y recruiters** que estén buscando curbrir vacantes. Algunos consejos breves que me fueron útiles para potenciar mi perfil y lograr tener entrevistas para puestos de developer:
+LinkedIn es un gran lugar para extendernos más allá de lo que nuestro CV nos lo permite, y **es el sitio en donde más expuestos vamos a estar frente a empresas y recruiters** que estén buscando curbrir vacantes. Algunos consejos breves que me fueron útiles para potenciar mi perfil y lograr tener entrevistas para puestos de developer:
 - Actualizar nuestro perfil con un **titular que incluya palabras claves relevantes** para la posición que deseamos cubrir. *Ejemplos: Desarrollador Web Full Stack, React Frontend Developer, etc*
-- Tener una foto de perfil profesional: No me refiero a usar camisa y corbata si eso no nos representa, basta con una foto con buena resolución que permita ver nuestra cara y no sea un recorte de una foto grupal.
+- Tener una foto de perfil profesional: No me refiero a usar camisa y corbata si eso no nos representa, si no a utilizar imagenes con buena resolución que permitan ver mayormente nuestra cara y no sean un recorte de una foto grupal o fotos demasiado viejas.
 - Agregar una biografía explicando brevemente quienes somos, en que area nos desempeñamos y qué tecnologías manejamos.
 - Agregar nuestras skills (tanto blandas como técnicas) en el apartado de aptitudes.
 - Conectar con otros profesionales del rubro. Esto incluye tanto programadores como reclutadores.
@@ -73,7 +80,7 @@ LinkedIn es un gran lugar para extendernos más allá de lo que el CV nos lo per
 En este link se puede encontrar una recopilación de perfiles de LinkedIn que el mismo sitio pone como ejemplo en su blog: **[10 LinkedIn Profile Summaries That We Love (And How to Boost Your Own)](https://www.linkedin.com/business/talent/blog/product-tips/linkedin-profile-summaries-that-we-love-and-how-to-boost-your-own)**.
 
 ## Entrevistas de trabajo
-Cuando me enfrenté a los primeros procesos de entrevista adopté una filosofía bastante popular... **Si voy a fallar, mejor fallar rápido**. Pasé por varios procesos de entrevistas (creo que entre 8 y 10) y mi desempeño fue mejorando notablemente junto con mi confianza cada vez que surgía una nueva oportunidad.
+Cuando llegó el momento de pasar por mis primeros procesos de selección, decidí adoptar una filosofía de **fallar rápido** para acelerar lo más posible mi proceso de aprendizaje. Pasé por varios procesos de entrevistas (aproximadamente entre 8 y 10 durante un período seis meses) y mi desempeño fue mejorando notablemente junto con mi confianza cada vez que surgía una nueva oportunidad.
 
 Nos podemos encontrar con varios tipos de procesos de selección, pero estos siempre van a contar con una instancia técnica en la cual es necesario demostrar el conocimiento que decimos tener. Esto puede ser de varias formas:
 - Un challenge técnico a completar y entregar en una cantidad determinada de días.
@@ -83,19 +90,19 @@ Nos podemos encontrar con varios tipos de procesos de selección, pero estos sie
 
 Cualquiera sea el proceso del cual nos toque formar parte, el fin es el mismo: **demostrar que realmente sabemos hacer todo eso que decimos saber hacer.** Y cuando me refería a fallar rápido para mejorar en las entrevistas, principalmente me refiero a este punto. Desarrollar seguridad es fundamental para alejar los nervios y poder dejar plasmados nuestros conocimientos en la entrevista.
 
-Es importante entender que una entrevista es una conversación con otra persona que está buscando solucionar un problema. Somos nosotros quienes nos presentamos como la solución a ese problema, y nuestro trabajo es demostrarlo. Personalmente, razonarlo de esta forma me ayuda a bajar la ansiedad y los nervios, y por consecuencia lograr que el resultado sea un poco mejor. 
+Es importante entender que **una entrevista de trabajo es una conversación con otra persona que está buscando solucionar un problema**. Somos nosotros quienes nos presentamos como la solución a ese problema, y nuestro trabajo es demostrarlo. Personalmente, razonarlo de esta forma me ayuda a bajar la ansiedad y los nervios para que el resultado sea un poco mejor. 
 
 ## Beneficios de trabajar en tecnología
-Como alguien que viene de trabajar en un rubro completamente ajeno al de la programación, tengo la suerte de poder ver y valorar muchos aspectos que otras personas considerarían "normales" en el sector, pero que evidentemente no son la norma para todos los trabajos. 
+Como alguien que viene de trabajar en un rubro completamente ajeno al de la programación, tengo la suerte de poder ver y valorar muchos aspectos que otras personas considerarían normales en el sector, pero que evidentemente no son la norma para todos los trabajos. 
 
 Entre estos aspectos destaco:
-- La posibilidad de trabajar remotamente (desde casa para una empresa local o incluso para el exterior cobrando en dólares).
+- Las posibilidades del **trabajo remoto** (desde casa para una empresa local o incluso para el exterior cobrando en dólares).
 - Ambientes de trabajo desestructurados y empresas "jóvenes" e innovadoras.
 - La prioridad que se le da al desempeño y el conocimiento frente a la apariencia y las formas.
 - La posibilidad de innovar y cambiar la vida de las personas a partir de la tecnología.
 - Empresas que brindan el soporte y los recursos necesarios para trabajar de manera cómoda y eficiente.
 
 ## No todo es color de rosas, aunque...
-Trabajar en el desarrollo de software puede ser una tarea muy dura y estresante, al igual que muchas otras. Sin embargo, es una de las profesiones más gratificantes cuando uno es apasionado por lo que hace.
+Trabajar en desarrollo de software puede ser una tarea muy dura y estresante, al igual que muchas otras. Sin embargo, es una de las profesiones más gratificantes cuando uno es apasionado por lo que hace y logra ver el impacto de su trabjao en la vida de otras personas.
 
-Empezar a programar me cambió la vida, y puede cambiar la tuya también. Si leiste hasta acá y te sentís atraido por la idea de dar un "volantazo" en tu carrera profesional, entonces espero haber aportado un grano de arena para que logres ese cambio. Hoy en día tenemos muchas herramientas a disposición esperando ser utilizadas... ¡El resto depende de vos!
+Empezar a programar me cambió la vida. Si leiste hasta acá y te sentís atraido por la idea de dar un "volantazo" en tu carrera profesional aprendiendo desarrollo de software, entonces espero haber aportado un grano de arena para que logres cambiar la tuya también.
