@@ -103,6 +103,6 @@ Entre estos aspectos destaco:
 - Empresas que brindan el soporte y los recursos necesarios para trabajar de manera cómoda y eficiente.
 
 ## No todo es color de rosas, aunque...
-Trabajar en desarrollo de software puede ser una tarea muy dura y estresante, al igual que muchas otras. Sin embargo, es una de las profesiones más gratificantes cuando uno es apasionado por lo que hace y logra ver el impacto de su trabjao en la vida de otras personas.
+Trabajar en desarrollo de software puede ser una tarea muy dura y estresante, al igual que muchas otras. Sin embargo, es una de las profesiones más gratificantes cuando uno es apasionado por lo que hace y logra ver el impacto de su trabajo en la vida de otras personas.
 
 Empezar a programar me cambió la vida. Si leiste hasta acá y te sentís atraido por la idea de dar un "volantazo" en tu carrera profesional aprendiendo desarrollo de software, entonces espero haber aportado un grano de arena para que logres cambiar la tuya también.
