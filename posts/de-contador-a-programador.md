@@ -12,7 +12,7 @@ Para dar algo de contexto de manera breve e intentando no aburrir a nadie, lo ú
 2. Siempre me interesó la tecnología (desarrollaba sitios web a modo de hobby) pero **nunca me había desempeñado profesionalmente** en el rubro.
 3. Fantaseaba con **cambiar de trabajo** pero lo veía como algo poco probable (entre otras cosas, me consideraba "viejo" para el cambio).
 
-*Disclaimer: muchos de los recursos que se comparten en este post están en inglés. Si bien existe mucho contenido de calidad en idioma español, en el mundo del desarrollo de software suele muy común y necesario acceder a recursos en inglés, por lo que si buscás formar parte de esta industria es una buena idea empezar a familiarzarte con el idioma.*
+*Disclaimer: muchos de los recursos que se comparten en este post están en inglés. Si bien existe mucho contenido de calidad en idioma español, en el mundo del desarrollo de software suele ser muy común y necesario acceder a recursos en inglés, por lo que si buscás formar parte de esta industria es una buena idea empezar a familiarzarte con el idioma.*
 
 ## El primer paso en el mundo de la programación
 A mi entender, hay un primer punto fundamental a tener en cuenta antes de empezar a aprender cualquier cosa: **conocer las alternativas que existen** y tener en claro **cual es el tipo de tareas que uno más disfruta realizar** (o por que no, en cuales uno se considera mejor o tiene mayor facilidad).
