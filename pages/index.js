@@ -30,7 +30,7 @@ export default function Home({ allPostsData }) {
           personas.
         </p>
         <p>
-          <u>También estoy en estas redes sociales:</u>
+          <u>También me podés encontrar en:</u>
           <p>
             <a href="https://www.linkedin.com/in/marcos-dv/" target="_blank">
               <Image
