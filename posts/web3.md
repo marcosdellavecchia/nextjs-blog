@@ -5,11 +5,11 @@ date: '2021-11-28'
 
 ![Web3 y blockchain](../images/posts/web3/web3-header-image.jpeg)
 
-*Web3 es un nuevo paradigma acerca de cómo funciona Internet, ¿pero qué significa esto exactamente?*
+*Web3 es un nuevo paradigma acerca de cómo funciona Internet, ¿pero qué significa eso exactamente?*
 
-Cuando la mayoría de las personas escucha el término *blockchain*, se les viene a la cabeza Bitcoin y una enorme cantidad de criptomonedas en las cuales se puede invertir para ganar (o perder) dinero de formar rápida. 
+Cuando la mayoría de las personas escucha el término *blockchain*, lo asocia rápidamente con Bitcoin y otras criptomonedas populares que utilizan esta tecnología.
 
-Sin embargo, esta tecnología comprende mucho más que una infraestructura para operar con criptomonedas. 
+Sin embargo, esto comprende mucho más que una infraestructura para operar con criptomonedas. 
 
 La blockchain evolucionó para dar vida a un nuevo concepto de propiedad, **no sólo del dinero si no también de organizaciones, arte, y de todas las formas de propiedad digital que ya conocíamos**. Esto da paso a un mundo de nuevas posibilidades.
 
@@ -72,4 +72,4 @@ Los cambios que esto implica para la economía posiblemente puedan ser de mayor 
 
 Si bien este fenómeno recién comienza, durante los últimos años tomó un impulso que no deja de sorprender y es un espacio en permanente evolución al que vale la estar atento.
 
-*Este post está inspirado en el artículo [What the Heck is Web3 and Why You Should Care](https://www.inc.com/inc-masters/what-the-heck-is-web-three-and-why-you-should-care.html)*.
+*Este post está basado en el artículo [What the Heck is Web3 and Why You Should Care](https://www.inc.com/inc-masters/what-the-heck-is-web-three-and-why-you-should-care.html)*.
