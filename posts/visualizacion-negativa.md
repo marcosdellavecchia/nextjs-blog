@@ -3,7 +3,7 @@ title: 'Visualización negativa: el antiguo arte estoico de desear lo que ya ten
 date: '2020-01-22'
 ---
 
-![Estoicismo y visualización negatiuva](../images/posts/visualizacion-negativa/visualizacion-negativa-header.jpeg)
+![Estoicismo y visualización negativa](../images/posts/visualizacion-negativa/visualizacion-negativa-header.jpeg)
 
 *Pensar siempre en positivo no te va a hacer más feliz.*
 
