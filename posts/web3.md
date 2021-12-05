@@ -57,11 +57,11 @@ Durante los últimos años, la creatividad de los usuarios y entusiastas de la W
 Los aficionados a los videojuegos que tuvieron la oportunidad de jugar un MMORPG *(Massive Multiplayer Online Role Playing Game)* estarán familiarizados con la idea de que cada juego tenga su propia moneda y su economía. Ahora, estas monedas representan dinero real, y un claro ejemplo de esto es [Axie Infinity](https://axieinfinity.com), entre otros.
 
 ### 3. Experimentos de gobernancia
-Los tokens pueden dar acceso a derechos de voto. Organizaciones decentralizadas conocidas como DAOs (*Decentralized Autonomous Organizations*) cuentan con miembros que pueden votar sobre propuestas de políticas a través de plataformas como [Snapshot.org](https://snapshot.org).
+Los tokens pueden dar acceso a derechos de voto. Organizaciones descentralizadas conocidas como DAOs (*Decentralized Autonomous Organizations*) cuentan con miembros que pueden votar sobre propuestas de políticas a través de plataformas como [Snapshot.org](https://snapshot.org).
 
 ### 4. Poder a los creadores de contenidos
 
-Al representar la propiedad de una obra de arte en un NFT (tokens no fungibles), los artistas pueden tener una relación clara y directa con las personas que consumen su arte, sin la necesidad de intermediarios. Basta con dar una mirada a [Open Sea](https://opensea.io) para encontrar una enorme cantidad de artistas vendiendo su trabajo a través de la blockchain.
+Al poder representar la propiedad de una obra de arte en un NFT (tokens no fungibles), los artistas pueden tener una relación clara y directa con las personas que consumen su arte, sin la necesidad de intermediarios. Basta con recorrer [Open Sea](https://opensea.io) para encontrar una enorme cantidad de artistas vendiendo su trabajo a través de la blockchain.
 
 ## TL;DR
 Web3 introduce un modelo de propiedad real en Internet que combina economía, arte y tecnología de una manera que no se había visto antes.
