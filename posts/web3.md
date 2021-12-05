@@ -66,7 +66,7 @@ Al poder representar la propiedad de una obra de arte en un NFT (tokens no fungi
 ## TL;DR
 Web3 introduce un modelo de propiedad real en Internet que combina economía, arte y tecnología de una manera que no se había visto antes.
 
-Los cambios que esto implica para la economía posiblemente puedan ser de mayor magnitud en comparación a cómo los dispositivos móviles (o la propia Internet) cambiaron la forma en que funcionaban las empresas.
+Los cambios que esto implica posiblemente puedan ser comparables a cómo los dispositivos móviles o las redes sociales modificaron la forma en que funcionaban las empresas.
 
 Si bien este fenómeno recién comienza, durante los últimos años tomó un impulso que no deja de sorprender y es un espacio en permanente evolución al que vale la estar atento.
 
