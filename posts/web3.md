@@ -48,18 +48,16 @@ Durante los últimos años, la creatividad de los usuarios y entusiastas de la W
 
 ## Algunos casos de uso de Web3
 
-Tokens, derechos de propiedad, decentralización... suena bien, ¿pero para qué está siendo usado todo esto hoy?
-
 ### 1. DeFi: Decentralización de las finanzas
-- Los requisitos para acceder a servicios financieros se redujeron enormemente: alcanza con tener un teléfono y conexión a internet.
-- Las personas están acumulando dinero para otorgar préstamos en los que cualquier persona del mundo puede participar.
+- Los requisitos para acceder a servicios financieros se están reduciendo enormemente, en muchos casos alcanza con tener un teléfono y conexión a internet.
+- Personas de todo el mundo están acumulando dinero para otorgar préstamos en los que cualquiera puede participar.
 - Se están recaudando grandes fondos para iniciativas como la compra de créditos de carbono, obras de arte o incluso la [constitución de EEUU](https://juicebox.money/#/p/constitutiondao).
 
 ### 2. Economías in-game
-Si te gustan los videojuegos y tuviste la oportunidad de jugar un MMORPG *(Massive Multiplayer Online Role Playing Game)*, debés estar familiarizado con la idea de que cada juego tenga su propia moneda y su economía. Ahora, estas monedas representan dinero real, y un claro ejemplo de esto es [Axie Infinity](https://axieinfinity.com).
+Los aficionados a los videojuegos que tuvieron la oportunidad de jugar un MMORPG *(Massive Multiplayer Online Role Playing Game)* estarán familiarizados con la idea de que cada juego tenga su propia moneda y su economía. Ahora, estas monedas representan dinero real, y un claro ejemplo de esto es [Axie Infinity](https://axieinfinity.com), entre otros.
 
 ### 3. Experimentos de gobernancia
-Los tokens pueden dar acceso a derechos de voto. Organizaciones decentralizadas conocidas como DAOs (*Decentralized Autonomous Organizations*) están siendo dirigidas votando sobre propuestas de políticas en plataformas como [Snapshot.org](https://snapshot.org).
+Los tokens pueden dar acceso a derechos de voto. Organizaciones decentralizadas conocidas como DAOs (*Decentralized Autonomous Organizations*) cuentan con miembros que pueden votar sobre propuestas de políticas a través de plataformas como [Snapshot.org](https://snapshot.org).
 
 ### 4. Poder a los creadores de contenidos
 
